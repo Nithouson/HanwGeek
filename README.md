@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### Feel free to go around and contact me 😄
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanwgeek&style=flat-square&label=PROFILE+VIEWS" alt="wr786"/> </p>
 <!--
 **HanwGeek/HanwGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
