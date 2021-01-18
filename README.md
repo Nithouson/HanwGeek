@@ -1,6 +1,5 @@
-<h1 align="center">Hi there👋, I'm Nithouson</h1>
-<h3 align="center">I'm interested in some cool things!</h3>
-<h3 align="center">Feel free to go around and contact me 😄</h3>
+<h1 align="center">Hi there, I'm Nithouson</h1>
+<h3 align="center">Feel free to go around and contact me.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nithouson&style=flat-square&label=PROFILE+VIEWS" alt="nithouson"/> </p>
 
